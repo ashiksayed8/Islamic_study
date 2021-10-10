@@ -1,0 +1,21 @@
+.person-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-bottom: 60px;
+}
+.scholar-container {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   box-shadow:  0.05rem 0.1rem 0.3rem -0.03rem  inset;
+   border-radius: 20px;
+   margin: 20px;  
+}
+.cart-container {
+    background-color: #5D6D7E  ;
+    box-shadow:  0.05rem 0.1rem 0.3rem -0.03rem  inset;
+    margin: 20px;
+    height: 600px;
+    border-radius: 30px;  
+    position: sticky;
+    top: 10px;
+}

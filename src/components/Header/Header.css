@@ -1,0 +1,21 @@
+.header-container {
+    padding: 20px;
+}
+.header {
+    padding: 20px;
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    margin-top: 30px;
+    background-image: url(../../img/headerpic.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: left;
+    border-radius: 30px;
+}
+.header blockquote {
+    font-size: 25px;
+    font-weight: 700;
+}
